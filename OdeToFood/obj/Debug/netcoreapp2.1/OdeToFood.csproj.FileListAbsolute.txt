@@ -22,3 +22,4 @@ C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
