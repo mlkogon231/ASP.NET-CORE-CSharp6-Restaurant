@@ -1,14 +1,17 @@
-﻿@using OdeToFood.Models
-@model Restaurant
+﻿@model Restaurant
+
+@{
+    ViewBag.Title = "Create";
+}
 
 <h1>Create</h1>
 
-<form method = "post">
+<form method="post">
 
     <div>
         <label asp-for="Name"></label>
-           <input asp-for="Name" />
-           <span asp-validation-for="Name"></span>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
     </div>
 
     <div>
@@ -19,4 +22,8 @@
 
     <input type="submit" name="save" value="Save" />
 </form>
+
+@section footer {
+    <h2>Footer</h2>
+}
 
