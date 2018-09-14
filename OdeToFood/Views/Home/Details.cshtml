@@ -1,4 +1,8 @@
-﻿@model OdeToFood.Models.Restaurant
+﻿@model Restaurant
+
+@{
+    ViewBag.Title = Model.Name;
+}
 
 <h1>@Model.Name</h1>
 <div>Id: @Model.Id</div>
@@ -6,4 +10,8 @@
 
 <div> ... details ...</div>
 <a asp-action="Index" asp-controller="Home">Home</a>
+
+@section footer {
+    <h2>Footer</h2>
+}
 

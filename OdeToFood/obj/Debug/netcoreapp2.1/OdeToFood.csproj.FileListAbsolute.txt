@@ -24,3 +24,103 @@ C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.c
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Greeting.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.output.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorCoreGenerate.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Greeting.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\cSharp\OdeToFood - right_before_homework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.output.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorCoreGenerate.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Greeting.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.dll
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+C:\cSharp\OdeToFood - right_before_homework - back_to_original\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Summary.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.dll
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.output.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorCoreGenerate.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Greeting.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Summary.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\cSharp\OdeToFood - new with identity framework\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.g.cshtml.cs
+C:\cSharp\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Summary.g.cshtml.cs
